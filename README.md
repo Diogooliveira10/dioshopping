@@ -1,2 +1,4 @@
 # dioshopping
-Integrando um backend em Node.js com frontend em React.js para um E-commerce. Projeto praticado na Digital Innovation One.
+  Aprendendo como integrar um Front-end em React com uma API REST(desenvolvida em Node.js).
+
+## Link para o meu perfil na [Digital Innovation One.](https://web.digitalinnovation.one/users/ddiogooliveira9)
